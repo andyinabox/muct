@@ -1,0 +1,11 @@
+{
+  "name": "muct",
+  "version": "1.0.0",
+  "description": "Landmarked face database (3755 faces, 76 landmarks)",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyinabox/muct.git"
+  },
+}
